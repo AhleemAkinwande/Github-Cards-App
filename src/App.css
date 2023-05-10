@@ -1,0 +1,40 @@
+/* App */
+.App {
+  text-align: center; /* Align the text in the center */
+}
+
+/* GitHub profile card */
+.github-profile {
+  margin: 1rem; /* Add margin around the card */
+}
+
+.github-profile img {
+  width: 75px; /* Set the width of the profile image to 75 pixels */
+}
+
+.github-profile .info {
+  display: inline-block; /* Display the info section inline */
+  margin-left: 12px; /* Add left margin to create space between the image and info */
+}
+
+.github-profile .info .name {
+  font-size: 1.25rem; /* Set the font size of the name */
+  font-weight: bold; /* Set the font weight of the name to bold */
+}
+
+/* Form */
+form {
+  border: thin solid #ddd; /* Add a thin solid border with light gray color */
+  background-color: #fbfbfb; /* Set the background color to a light gray shade */
+  padding: 2rem; /* Add padding around the form */
+  margin-bottom: 2rem; /* Add bottom margin to create space between the form and other elements */
+  display: flex; /* Use flexbox for the form layout */
+  justify-content: center; /* Center the form horizontally */
+}
+
+/* Header */
+.header {
+  text-align: center; /* Align the text in the center */
+  font-size: 1.5rem; /* Set the font size of the header */
+  margin-bottom: 1rem; /* Add bottom margin to create space between the header and other elements */
+}
